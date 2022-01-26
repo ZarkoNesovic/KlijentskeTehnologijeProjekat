@@ -1,0 +1,66 @@
+[
+    {
+	"ime":"Lepomir",
+	"prezime":"Petkovic",
+	"br_indeksa":"ITS 01/20",
+	"biografija":"MCP, MCSA, MCSE, CCNA",
+    "slika":"img/sysadm.jpg"
+    },
+    {
+	"ime": "Mladen",
+	"prezime": "Tujkić",
+	"br_indeksa": "ITS 03/21",
+	"biografija":"Rodjen u Negotinu 03.07.1992. godine, stekao zvanje strukovni inženjer Elektrotehnike i računarstva. Radim kao procesni inženjer u hemiskoj industriji. Velika strast su mi frontend tehnologije.",
+	"slika": "img/Mladen.jpg"
+    },
+    {
+        "ime":"Zarko",
+        "prezime": "Nesovic",
+        "br_indeksa": "ITS 05/21",
+        "biografija": " Junior full stack programmer.Vest sam u koriscenju tehnologija baziranih na JavaScript-u kao sto su NodeJS i React kao i relacionih i neralacionih baza podataka. Takodje dobro poznajem Windows operativni sistem i administraciju istog.  Pored ovih tehnologija bavim se  razvijanjem Sistema na Arduino platformi. U slobodno vreme volim da citam i igram basket.", 
+        "slika": "img/Zarko.jpg"
+    },
+    {
+        "ime": "Aleksandar",
+        "prezime": "Borisavljević",
+        "br_indeksa": "ITS 06/21",   
+        "biografija": "Rođen krajem prošlog milenijuma, davne 1990. godine. Završio osnovnu muzičku skolu, odsek klavira i harmonike, uporedo sa regularnom osnovnom školom. Ušao u svet programiranja sa 9 godina, kroz QBasic, kasnije C, C++, Java i C#. Stekao zvanje strukovnog inženjera elektrotehnike i računarstva 2015. godine. Oduvek se zanimao izučavanjem hardvera i softvera, kako bi 2021. godine upisao master studije na Akademiji tehničko-vaspitačkih strukovnih studija - Odsek Niš. Trenutno u procesu pronalaženja sebe i posla koji bi ispunjavao lično nametnute ambicije.",
+        "slika": "img/Aleksandar.JPG"
+    },
+    {
+        "ime": "Miloš",
+        "prezime": "Nasković",
+        "br_indeksa": "ITS 07/21",
+        "biografija": "Rođen u Gnjilanu 17. februara 1999. godine. Osnovnu i srednju školu sam završio u Nišu a 2018, godine sam upisao Visoku tehničku školu u Nišu na smeru savremene računarske tehnologije. Trenutno na istoj školi pohađam i master strukovne studije. Moja interesovanja su usmerena ka web razvoju i trenutno radim kao praktikant za frontend developera.",
+        "slika": "img/Milos.jpg"
+    },
+    {
+        "ime": "Bojana",
+        "prezime": "Popovic",
+        "br_indeksa": "ITS 08/21",
+        "biografija": "Bojana Popovic rodjena u Nisu 30.11.1989. godine,odrasla,zivi i udala se u Naselju 9 Maj kod Nisa,tu i zavrsila osnovnu skolu, zatim srednju Prehrambeno-hemijsku u Nisu, kao i osnovne strukovne studije na Akademiji tehnicko-vaspitackih strukovnih studija.2021 godine na pomenutoj Akademiji upisala master studije na studijskom programu-Informacione tehnologije i sistemi.Nakon zavrsetka studija, radila sam na poslovima komercijale,kao i na poslovima sefa servica. Trenutno imam najlepsi posao a to je cuvanje jedne devojcice koju sam rodila decembra 2020. I sada sam na porodiljskom odsustvu.ja i suprug imamo i kafanu u kojoj i sada radim kada ima bas puno posla.",
+        "slika": "img/Bojana.jpg"
+    },
+    {
+        "ime":"Nikola",
+        "prezime":"Nesic",
+        "br_indeksa":"ITS 09/21",
+        "biografija":"Software engineer",
+        "slika": "img/nikola.jpg"
+    },
+    {
+        "ime": "Dušan",
+        "prezime": "Panić",
+        "br_indeksa": "ITS 10/21",
+        "biografija": "QA Engineer sa iskustvom u manualnom testiranju softvera. Takođe poseduje iskustvo u automatizaciji testiranja softvera koristeći Selenium(Java)",
+        "slika": "img/dusan.jpg"
+    },
+    {
+        "ime": "Andrija",
+        "prezime": "Todorovic",
+        "br_indeksa": "ITS 11/21",
+        "biografija": "Rođen u Nišu 9. maja 1999. godine. 2018. godine sam upisao osnovne studije na Viskokoj tehničkoj školi u Nišu na smeru savremne računarske tehnologije. Trenutno na istoj školi pohađam master strukovne studije. Od početka studija sam član tima koji se bavi istraživenjem bespilotnih letelica. Moja interesovanja su vezana za web razvoj i SEO optimizaciju.",
+        "slika": "img/Andrija.jpg"
+    }
+]
+

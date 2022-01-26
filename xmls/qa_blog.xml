@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blog>
+    <naslov>Quality Assurance (garancija kvaliteta)</naslov>
+    <tema>Testiranje softvera</tema>
+    <tekst>
+        Testiranje softvera je provera sprovedena tako da zainteresovanim stranama pruži informacije o kvalitetu određenog softverskog proizvoda ili usluge.
+        U testiranju softvera, automatizacija testa je korišćenje specijalnog softvera (odvojenog od softvera koji se testira) kako bi se kontrolisalo izvršenje
+        testova i upoređivanje dobijenih ishoda sa očekivanim ishodima.
+    </tekst>
+</blog>

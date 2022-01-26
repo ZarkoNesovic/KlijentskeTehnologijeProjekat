@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blogovi>
+
+    <blog>
+        <naslov>JavaScript</naslov>
+        <tema>ECMAScript</tema>
+        <tekst>ECMAScript je specifikacija skriptnog jezika zaštićena žigom i standardizovana od strane Ecma International pod ECMA-262 i ISO/IEC 16262. Kreirana da bi se standardizovao JavaSkript, kao i da bi se očuvalo više nezavisnih implementacija. JavaSkript je ostao najpoznatija implementacija ECMAScript standarda od samog njenog nastanka, dok su još neke poznatije implementacije JScript i ActionScript. Programeri najčešće koriste ECMAScript za skripte na klijentskoj-strani na Vebu, dok se sve više koristi i za pisanje serverskih aplikacija i servisa koristeći Node.js. </tekst>
+    </blog>
+
+    <blog>
+        <naslov>Android</naslov>
+        <tema>Obavestenja</tema>
+        <tekst>Obavestenje je poruka koju Android prikazuje van korisnickog interfejsa aplikacije kako bi obavestio korisnika da mu je stigla poruka ili ga blagovremeno upozori na neki dogadjaj.  Posredstvom obavestenja omoguceno je da se jednostavno preusmeri na aplikaciju koja salje obavestenje.  Obavestenja su vremenom napredovala te je sada moguce iskoristiti obavestenje da se recimo posalje direktno poruka ili da se preduzme neka akcija.  Obavestenja se pojavljuju korisnicima na razlicitim lokacijama i formatima, kao sto su ikona na statusnoj traci, detaljniji unos u fioci obavestenja, kao balon na ikoni aplikacije.  Veoma je bitno prilagoditi format obavestenja zato sto vecina korisnika ima ocekivanja u vezi sa izgledom same notifikacije i funkcionalnostima.  Notifikacije se mogu pojaviti u statusnom baru i u fioci sa obavestenjima. Sa dolaskom androida 5.0 moguce je da se notifikacija na kratko pojavi u plutajucem prozoru takozvana Heads Up obavestenja.  Nakon nestajanja obavestenje ce i dalje biti dostupno u fioci sa obavestenjima. Pored ovog dodatka dodata je i mogucnost notifikacija na zakljucanom ekranu kao i da se da se programski odredi kolicina informacija koja će biti prikazana. Daljim razvojem androida sa verzijom 8.0 dolazi do jos jedne znacajne promene a to je pojava obavestenja na ikoni same aplikacije takozvanom znackom sto je jedan znacajan napredak.Ukoliko korisnik poseduje Wear OS uredjaj sva obavestenja ce automatski biti prikazana i na tom uredjaju. Radi boljeg dozivljaja moguce je i specijalno dizajnirati obavestenja iskljucivo za te uredjaje.</tekst>
+    </blog>
+
+
+    <blog>
+        <naslov>Hobi</naslov>
+        <tema>Potraga za adrenalinom</tema>
+        <tekst>Dobar deo ljudske populacije je već pronašao svoj hobi, okušao se u raznoraznim sportovima i rekreacijama. Međutim mala grupa ljudi stalno skače sa jednog na drugi hobi u potrazi za nečim što će im pružiti pravi osećaj zadovoljstva. Kada se spomene neki od ekstremnih sportova, prva pomisao većine je kako to nije za njih, bez da uopšte pružaju šansu istim. Inicijalna ljudska reakcija je da se sklone ili pobegnu od situacija koje su neprijatne, opasne i slično, međutim ljudsko telo i um su mnogo jači nego što većina želi da prizna. Nalet adrenalina, prizor sa visine, strujanje vazduha oko celog tela, neobično prigušen zvuk okoline, posedovanje kontrole nad svojim životom, letenje kroz oblake, G sila pri otvaranju padobrana, su iskustva koja bih svakom poželeo. Svako pita kakav je osećaj, samo retko koga zaista interesuje, dok većina pita iz straha. Jedina loša strana padobranstva je što niste stalno u vazduhu, sve ostalo je nirvana.</tekst>
+    </blog>
+
+    <blog>
+        <naslov>Istorija animacija</naslov>
+        <tema>Istorija</tema>
+        <tekst> Razvoj personalnih računara s početka devedesetih godina prošlog veka dovela je do pojave nove vrste umetnosti pod nazivom animacije. Animacija je metoda u kojoj se manipuliše objektima kako bi se pravile pokretne slike. Nekada da bi se kreirala animacija, umetnici su morali da crtaju svaki delić posebno kako bi se na kraju dobio željeni efekat. Danas to nije slučaj i uz pomoć računara kreatorima se otvara novi spektar mćnosti i samo njihova kreativnost je granica. Stvaranje gotovog proizvoda u kompjuterskoj grafici može biti odličan osećaj. Videti kako nečiji snovi oživljavaju je izuzetno korisna opcija za karijeru. Edvin Ketmul je izmislio softver za kompjutersku grafiku jer se osećao nesposobnim da crta stvari rukom. Kompjuterska grafika omogućava umetniku da dizajnira stvari koje su izvan mogućnosti stvarnosti. Čak su i snimci uživo koristili kompjuterske slike da bi napravili nemoguće lokacije, kao što su mnoga zapanjujuća okruženja u filmu “Inception” Kristofera Nolana. Gotovo da nema ograničenja u onome što se može stvoriti pomoću 3D modeliranja i 3D animacije, a ko zna šta će budućnost nositi.</tekst>
+    </blog>
+
+    <blog>
+        <naslov>MB Renta car DOO</naslov>
+        <tema>Automobilizam</tema>
+        <tekst>MB Rent a car se prethodnih godina pozicionirala kao firma od poverenja i kvaliteta. Zahvaljujuci nasoj profesionalnosci i okrenutosti zahtevima klijenata, uspeli smo da stvorimo bazu lojalnih klijenata koji su nasa najbolja preporuka.Nasa agencija nudi standardne vidove najma vozila za fizicka lica. Klijenti mogu izvrsiti rezervaciju putem telefona ili jednostavno preko online rezervacionog sistema. Mi obezbedjujemo bezbedan, siguran i udoban prevoz u nasim vozilima.</tekst>
+    </blog>
+
+    <blog>
+        <naslov>Quality Assurance (garancija kvaliteta)</naslov>
+        <tema>Testiranje softvera</tema>
+        <tekst>Testiranje softvera je provera sprovedena tako da zainteresovanim stranama pruži informacije o kvalitetu određenog softverskog proizvoda ili usluge. U testiranju softvera, automatizacija testa je korišćenje specijalnog softvera (odvojenog od softvera koji se testira) kako bi se kontrolisalo izvršenje testova i upoređivanje dobijenih ishoda sa očekivanim ishodima. </tekst>
+    </blog>
+
+    <blog>
+        <naslov>Korisnički interfejs </naslov>
+        <tema>Android</tema>
+        <tekst>U današnjem svetu svedoci smo tehnološkog napretka koji je pružio laku dostupnost informacija, bez obzira na lokaciju. I jedna od inovacija koja je deo svakodnevnice su mobilni telefoni. Danas mobilni telefoni predstavljaju više od sredstva za komunikaciju i zbog toga se javila potreba za razvojem mobilnih operativnih sistema. Jedan od mobilnih operativnih sistema koji se održao do danas jeste Android. Android je softverska platforma i mobilni operativni sistem baziran na Linux Kernel-u, razvijen od strane Google-a. Dozvoljava developerima da pišu i uređuju kod u Java jeziku, kontrolišući uređaj putem Java biblioteka. Android je otvorenog koda koji se može besplatno preuzeti,  softverski paket za mobilne uređaje uključuje  operativni sistem, middleware i ključne aplikacije zasnovane na Linux-u i Java-i. Godinama većina web timova je dizajnirala proizvode za računare i laptopove. Što je imalo smisla u velikom delu sveta veoma dugo. Pretraživanje  weba na mobilnim uređajima bilo je veoma teško. Od 2015. godine stvari su se dramatično promenile pojavom koncepta mobilni uređaji prvo. Dizajniranje za mobilne uređaje prvo ne samo da je stvorilo prilike za rast, nego je vodilo ka boljem korisničkom iskustvu za web sajtove i aplikacije. Korisnički interfejs je deo sistema koji komunicira  sa korisnikom. Dizajniranje korisničkog interfejsa uključuje sve aspekte sistema koji su vidljivi korisniku. Zbog toga što korisnički interfejs uključuje sve što je vidljivo korisniku, korisnički interfejs se proteže duboko u dizajn interaktivnog sistema. </tekst>
+    </blog>
+
+</blogovi>
