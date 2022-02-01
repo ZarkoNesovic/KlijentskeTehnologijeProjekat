@@ -1,17 +1,17 @@
 [
     {
-	"ime":"Lepomir",
-	"prezime":"Petkovic",
-	"br_indeksa":"ITS 01/20",
-	"biografija":"MCP, MCSA, MCSE, CCNA",
-    "slika":"img/sysadm.jpg"
+	    "ime":"Lepomir",
+	    "prezime":"Petkovic",
+	    "br_indeksa":"ITS 01/20",
+	    "biografija":"MCP, MCSA, MCSE, CCNA",
+        "slika":"img/sysadm.jpg"
     },
     {
-	"ime": "Mladen",
-	"prezime": "Tujkić",
-	"br_indeksa": "ITS 03/21",
-	"biografija":"Rodjen u Negotinu 03.07.1992. godine, stekao zvanje strukovni inženjer Elektrotehnike i računarstva. Radim kao procesni inženjer u hemiskoj industriji. Velika strast su mi frontend tehnologije.",
-	"slika": "img/Mladen.jpg"
+	    "ime": "Mladen",
+	    "prezime": "Tujkić",
+	    "br_indeksa": "ITS 03/21",
+	    "biografija":"Rodjen u Negotinu 03.07.1992. godine, stekao zvanje strukovni inženjer Elektrotehnike i računarstva. Radim kao procesni inženjer u hemiskoj industriji. Velika strast su mi frontend tehnologije.",
+	    "slika": "img/Mladen.jpg"
     },
     {
         "ime":"Zarko",
@@ -61,6 +61,20 @@
         "br_indeksa": "ITS 11/21",
         "biografija": "Rođen u Nišu 9. maja 1999. godine. 2018. godine sam upisao osnovne studije na Viskokoj tehničkoj školi u Nišu na smeru savremne računarske tehnologije. Trenutno na istoj školi pohađam master strukovne studije. Od početka studija sam član tima koji se bavi istraživenjem bespilotnih letelica. Moja interesovanja su vezana za web razvoj i SEO optimizaciju.",
         "slika": "img/Andrija.jpg"
+    },
+    {
+        "ime": "Jelena",
+        "prezime": "Vojinović",
+        "br_indeksa": "ITS 12/21",
+        "biografija": "Rođena u Aleksincu 07.08.1997. godine. Stekla zvanje strukovni inženjer elektrotehnike i računarstva. Trenutno pohađa  master strukovne studije na Akademiji tehničko-vaspitačkih strukovnih studija u Nišu. Interesovanja usmerena ka front-end developmentu i fotografiji.",
+        "slika": "img/jelena.jpg"
+    },
+    {
+        "ime": "Damnjan",
+        "prezime": "Petrović",
+        "br_indeksa": "ITS 04/21",
+        "biografija": "Veteran u Idiotizmu, proždiranju Bureka i Gurmanske i ginekolog amater",
+        "slika": "img/damnjan.jpg"
     }
 ]
 

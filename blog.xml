@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <blogovi>
-
+    <blog>
+        <naslov>Tip of the Day</naslov>
+        <tema>Restoring NetGear NAS “from death”</tema>
+        <tekst> Let’s assume a cataclysmic scenario for an IT team: 
+        File server failed!NETGEAR NAS does not boot the system. Automatic file system check does not help. 
+        In all this, there is damaged disk inside the X-RAID structure.
+        Restoration of the NAS server and RAID configuration in this case must be done in strict compliance with the procedure in order to avoid data loss.
+        DO NOT WORK: Factory Reset because you will be left without all the data!
+        RESTORE STEPS:
+        1.	Reinstallation of OS
+        2.	Connect the NAS to the laptop or PC running the terminal emulator
+        3.	Log in to the server using default ip address
+        4.	Start the RAID rebuild and wait until recovery is complete
+        For a detailed explanation of the entire procedure contact us and donate for new content.
+        </tekst>
+    </blog>
     <blog>
         <naslov>JavaScript</naslov>
         <tema>ECMAScript</tema>
@@ -44,4 +59,14 @@
         <tekst>U današnjem svetu svedoci smo tehnološkog napretka koji je pružio laku dostupnost informacija, bez obzira na lokaciju. I jedna od inovacija koja je deo svakodnevnice su mobilni telefoni. Danas mobilni telefoni predstavljaju više od sredstva za komunikaciju i zbog toga se javila potreba za razvojem mobilnih operativnih sistema. Jedan od mobilnih operativnih sistema koji se održao do danas jeste Android. Android je softverska platforma i mobilni operativni sistem baziran na Linux Kernel-u, razvijen od strane Google-a. Dozvoljava developerima da pišu i uređuju kod u Java jeziku, kontrolišući uređaj putem Java biblioteka. Android je otvorenog koda koji se može besplatno preuzeti,  softverski paket za mobilne uređaje uključuje  operativni sistem, middleware i ključne aplikacije zasnovane na Linux-u i Java-i. Godinama većina web timova je dizajnirala proizvode za računare i laptopove. Što je imalo smisla u velikom delu sveta veoma dugo. Pretraživanje  weba na mobilnim uređajima bilo je veoma teško. Od 2015. godine stvari su se dramatično promenile pojavom koncepta mobilni uređaji prvo. Dizajniranje za mobilne uređaje prvo ne samo da je stvorilo prilike za rast, nego je vodilo ka boljem korisničkom iskustvu za web sajtove i aplikacije. Korisnički interfejs je deo sistema koji komunicira  sa korisnikom. Dizajniranje korisničkog interfejsa uključuje sve aspekte sistema koji su vidljivi korisniku. Zbog toga što korisnički interfejs uključuje sve što je vidljivo korisniku, korisnički interfejs se proteže duboko u dizajn interaktivnog sistema. </tekst>
     </blog>
 
+    <blog>
+        <naslov>Web popisivači- SEO optimizacija</naslov>
+        <tema>SEO</tema>
+        <tekst>SEO (Search Engine Optimization) optimizacija tj. optimizacija za pretraživače je proces povećanja vidljivosti web sajtova na rezultatima pretrage pretraživača kao što su: google, bing i DuckDuckGo. Ključan element SEO optimizacije je on-site optimizacija koja podrazumeva optimizaciju sajta za proces koji se zove crawling ili puzenje. Crawling se izvršava od strane crawler-a, robota, pauka odnosno popisivača Popisivači su programi koji automatski otkrivaju i skeniraju  web sajtove tako što prate linkove sa jedne web stranice na druge. Oni sve novo kreirane i ažurirane stranice čuvaju u svoju listu URL adresa  web stranica. Listu dopunjavaju i podacima sa mape sajtova koje im dostavljaju kreatori sajtova.  Popisivači takođe koriste i algoritme pomoću kojeg određuju koje sajtove i koliko često treba da posete. Algoritam sastavlja indeks ključnih reči na stranici i njihove lokacije. Na ovaj način se pretražuju, popisuju i luvaju milijarde stranica sajtova širom celog Sveta.</tekst>
+    </blog>
+    <blog>
+        <naslov>Burek</naslov>
+        <tema>Burek</tema>
+        <tekst>Бурек (тур. börek; грч. μπουρέκι, μπουρεκάκια; хебр. בורקס) је предјело, слатка пита или пециво које се може пронаћи у многим земљама које су некад биле у саставу Османског царства. Прави се од лиснатог или киселог теста, и углавном се надева сиром, млевеним месом, воћем или поврћем (најчешће спанаћ). Бурек вероватно потиче из турске кухиње. Реч „берек” (тур. börek) је турска реч за ово слојевито јело од теста, али такође и за остала јела од теста. Само у турском језику реч „бурек” има тако широко значење. У свим осталим језицима у којима је позајмљена, реч се односи само на неке врсте пецива. Име може да долази од турске речи bur (савијати), слично као и у српском, где речи савијача (од савијати) и гибаница (по једној теорији настало од гибати, иако други сматрају да је корен реч из египатског арапског ’giban’, што значи сир) такође описују одређено слојевито јело од теста, или можда од персијске речи būrek. У бившој Југославији реч бурек није нигде коришћена као хипероним (као на пример пита, колач), као у турском језику. Бурек има две реализације: једну у Србији и Северној Македонији, а другу у Босни и Херцеговини (од сва три народа - Бошњака, Срба и Хрвата). Оба пецива се такође праве и у Хрватској и Словенији, где су их увели углавном албански и босански пекари почевши од 60-их. Бурек је у редовној понуди свих пекара и обично се једе као "брза храна". Типично се служи врућ и након печења се држи у топлим витринама да се не би охладио. Због високог садржаја масноће, често се једе са јогуртом. Осим у пекарама, бурек се продаје у специјализованим продавницама званим бурегџинице (на српском, хрватском и српскохрватском) или бурекџилницама (на македонском) које продају искључиво бурек (или пите) и јогурт. Бурегџинице су заправо само врста пекара које су постојале пре почетка 18. века. Врло су честе у Босни и Херцеговини и поприлично честе у Хрватској, Северној Македонији, Црној Гори и Србији. У Босни се буреком назива искључиво пециво са надевом од меса. У већини осталих делова бивше Југославије при наручивању се увек мора напоменути и надев („са месом”, „са сиром” у Србији, Црној Гори и Хрватској, „со сирење”, „со месо” у Северној Македонији...). Српски (округли) бурек У Србији се реч бурек односи на специјалну питу од кора. Коре се праве развлачењем од теста које се састоји од брашна, воде и соли. Поједини мајстори их развлаче бацањем у ваздух, слично мајсторима за пицу. Ово има за циљ обогаћивање теста ваздухом, што наводно даје бољи укус. Традиционални бурек се прави празан (без надева), са сиром или динстаним млевеним месом и јабукама у зимској односно вишњама у летњој сезони. Данас се бурек са јабукама и вишњама налази ређе, а у савремене варијанте спадају и многе друге врсте од којих су најчешће бурек са печуркама, пица-бурек и бурек са еурокремом. Бурек се сече и продаје на меру. Традиционално, тепсија бурека је имала око два килограма, али се данас бурек израђује у мањим тепсијама тежине око једног килограма и углавном се продаје на четврти, што убрзава продају. Рецепт за модерни округли бурек је развијен у Нишу, где га је 1498. представио чувени турски пекар Мехмед Оглу из Истанбула. Сваке године се у Нишу одржава такмичење у прављењу бурека (Бурегџијада). Године 2005, је направљен бурек од сто килограма, са пречником од два метра.</tekst>
+    </blog>
 </blogovi>
